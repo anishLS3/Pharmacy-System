@@ -2,6 +2,8 @@
 **Project Description**
 The Pharmacy Management System is a software solution developed for a small pharmacy to efficiently manage their stock of medicines, track daily sales, and ensure effective prescription handling. The system is designed to provide a user-friendly interface for salespersons and comprehensive management tools for tracking sales and stock status.
 
+![Image Alt](https://github.com/anishLS3/Pharmacy-System/blob/d34ac0286e89ba8b731a41511551e7ced9920031/ProjectPharma.jpg)
+
 **Features:**
 _(1) Medicine Management:_
         Maintain a database of medicines in csv with details such as name, expiration date, quantity, and storage location.
